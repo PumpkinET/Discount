@@ -1,7 +1,7 @@
 # Discount
 Ads app made in React native & PHP.
 <br>
-<b>Technologies : Servlet, PDO, React native
+<b>Technologies :PDO, React native
 <br>
 <br>
 <br>
